@@ -1,2 +1,4 @@
 # Desafio de Projeto sobre Git/GitHub
- - Reposítório criado para o Desafio de Projeto proposto pela DIO (Digital Innovation One)
+ - Reposítório criado para o Desafio de Projeto proposto pela DIO (Digital Innovation One).
+ - A ideia do desafio era nos incentivar a criarmos repositórios no GitHub, aplicando os conhecimentos de Git aprendidos durante o Bootcamp da DIO, onde aprendi sobre como criar um repositório no GitHub e fazer a sincronização entre repositórios local e remoto.
+ - Resolvi colocar neste repositório o meu primeiro projeto em HTML, que desenvolvi no primeiro semestre de 2021, no cruso de Desenvolvimeno de Sistemas da Etec Profª Ermelinda Giannini Teixeira, onde a proposta era aplicar os conhecimentos básicos de HTML ensinados ao logo do semestre, com a inserção de textos, imagens e a manipulação de hiperlinks. É o site mais sites mais simples que vão encontrar aqui na plataforma, sem estilização e sem nada além de HTML puro, quis publicá-lo apenas para que daqui algum tempo eu volte aqui e veja o quanto evoluí desde que comecei na área, revendo e analisando a imensidade de coisas que eu poderia implementar no projeto para melhorá-lo.
